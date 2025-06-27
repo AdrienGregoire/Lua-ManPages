@@ -1,0 +1,46 @@
+body {
+  font-family: monospace, monospace;
+  background: #fff;
+  color: #222;
+  margin: 2rem auto;
+  max-width: 700px;
+  line-height: 1.4;
+  padding: 0 1rem;
+}
+
+header h1 {
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin-bottom: 0.2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0066cc;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  border-bottom: 1px solid #ccc;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+pre {
+  background: #eee;
+  padding: 1rem;
+  white-space: pre-wrap;
+  border-radius: 4px;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.8rem;
+  color: #888;
+  text-align: center;
+}
